@@ -1,0 +1,8 @@
+*.pdf
+*.pages
+*.txt
+.DS_Store
+__pycache__
+.vscode/
+*.class
+.vstags
